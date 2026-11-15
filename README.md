@@ -1,2 +1,2 @@
-# resonance-leaked-v2.10
-resonance leaked v2.10
+# resonance v2.10
+    open source.
